@@ -1,9 +1,10 @@
 # knife
 369 My flash is my knife 369
 
-You can do the following after extracting the file from the zip mode>>
+You can use this normal flash tool to convert to bad usb !
 
 ![Knife](https://user-images.githubusercontent.com/100033106/200580003-e5b614d0-e85c-41fd-a82a-e19bb197f0ba.jpg)
+You can do the following after extracting the file from the zip mode>>
 
 [1] = Delete all files
 In this section, you can delete all target system files
